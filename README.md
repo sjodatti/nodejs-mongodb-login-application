@@ -1,5 +1,5 @@
 # nodejs-mongodb-login-application
-This is a simple app for User login using nodejs and mongoDB. 
+This is a simple app for User login using nodejs and mongoDB. Followig are the details for the same.
 
 Technologies used:
 Nodejs -->Server
